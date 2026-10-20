@@ -1,7 +1,7 @@
 # Java Lab Experiments and Project
 
 ## Student Information
-- Name: Gazal Saini
+- Name: Harshvardhan Singh Chouhan
 - Course: B.Tech – Computer Science and Engineering
 - Semester: 5th Semester
 
@@ -45,5 +45,5 @@ These experiments and the ShopSphere project provide practical experience in Jav
 
 ---
 
-Maintained by: Gazal Saini  
+Maintained by:  Harshvardhan Singh Chouhan
 Purpose: Academic Lab Work and Project Submission
